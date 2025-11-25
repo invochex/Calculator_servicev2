@@ -5,6 +5,7 @@ const PORT = 80;
 const service_ip = '10.10.10.100';
 
 
+
 // Calculator microservices
 const SUM_SERVICE_IP_PORT = 'http://' + service_ip + ':31001';
 const SUB_SERVICE_IP_PORT = 'http://' + service_ip + ':31002';
